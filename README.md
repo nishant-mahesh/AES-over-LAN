@@ -1,6 +1,9 @@
 # AES-over-LAN
 *CS-1340 Final Project*
 
+**Packages to Download:**
+- pip install pycryptodome <br/>
+
 **Description:**
 - In this project, we will implement a simple AES encryption/ decryption application using socket programming.
 - Upon establishing server and client connection, client can choose to encrypt/ decrypt a message.
