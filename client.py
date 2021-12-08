@@ -1,5 +1,6 @@
 '''
 Name 		: Nishant Mahesh, Neil Chowdhary
+Github Repo : https://github.com/nishant-mahesh/AES-over-LAN.git 
 Code 		: Course Project CS 1340
 Description	: 	- In this project, we will implement a simple AES encryption/ decryption application using socket programming.
 				- Upon establishing server and client connection, client can choose to encrypt/ decrypt a message.
@@ -25,6 +26,7 @@ Testing 	:In order to test the project, the evaluator can do one of 2 things.
 				2.	Test Msg  		: networks
 					Test Key  		: asdfasdfasdfasdf
 					Encrypted hex  	: 941870dfe2ed6b14e56409dd1d17abbb
+
 '''				
 
 import socket
